@@ -91,7 +91,8 @@ export default hopeTheme({
     blog: true,
 
     // 评论配置（仅做样例，记得更换）
-    comment: {
+   comment: {
+     /*
       provider: "Waline",
       serverURL: "https://waline.newzone.top",
       reaction: [
@@ -122,6 +123,7 @@ export default hopeTheme({
           level5: "化神",
         },
       },
+     */
 
       // Giscus 备用配置
       /*
@@ -132,6 +134,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOHdfk6c4CQYNn",
       */
     },
+
 
     // 组件库
     components: {
