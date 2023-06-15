@@ -45,7 +45,6 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
           
-          # 将页面更新到 Vercel
       # 将页面更新到 Vercel
       - name: Copy file to Vercel
         if: always()
