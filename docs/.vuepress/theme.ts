@@ -16,7 +16,7 @@ export default hopeTheme({
     url: "https://newzone.top",
   },
 
-  logo: "/logo.svg",
+  logo: "/xinglogo.png",
 
   // 是否全局启用路径导航
   breadcrumb: false,

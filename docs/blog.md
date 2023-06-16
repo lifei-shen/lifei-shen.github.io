@@ -4,7 +4,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 互联网小白
-#heroImage: /logo.svg
+#heroImage: /xinglogo.png
 heroText: 互联网小白
 tagline: 盛年不重来，一日难再晨
 bgImage: https://img.newzone.top/home-bg-1.jpg
@@ -35,7 +35,7 @@ heroFullScreen: false
 #    desc: 伙伴详细介绍
 #    link: https://你的伙伴链接
 #
-#  - icon: /logo.svg
+#  - icon: /xinglogo.png
 #    name: 自定义项目
 #    desc: 自定义详细介绍
 #    link: https://你的自定义链接
