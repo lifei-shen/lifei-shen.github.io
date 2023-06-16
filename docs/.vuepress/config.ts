@@ -11,7 +11,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   // 网站标题
   //title: "LearnData-开源笔记",
-  title: "星之火科技",
+  title: "星之火网络科技",
   // 网站描述
   description:
     "开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识。",
