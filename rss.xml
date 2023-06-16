@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Jun 2023 04:23:13 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2023 04:23:13 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 05:09:06 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 05:09:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -16,27 +16,11 @@
       <link>https://newzone.top/posts/LearnData.html</link>
       <guid>https://newzone.top/posts/LearnData.html</guid>
       <source url="https://newzone.top/rss.xml"></source>
-      <description>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识 Table of Contents ✨ 初衷 🧱 笔记结构 🍥 搭建 LearnData 🔣 配置 LearnData 🖥️ 网站部署 🤔 常见问题 🆙 版本升级</description>
+      <description>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识 ✨ 初衷 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。 更重要的是，笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。 因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。</description>
       <pubDate>Fri, 16 Jun 2023 03:49:56 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识</p>
 </blockquote>
-<!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
-<details>
-  <summary>Table of Contents</summary>
-  <ul>
-    <li><a href="#-初衷">✨ 初衷</a></li>
-    <li><a href="#-笔记结构">🧱 笔记结构</a></li>
-    <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
-    <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
-    <li><a href="#️-网站部署">🖥️ 网站部署</a></li>
-    <li><a href="#-常见问题">🤔 常见问题</a></li>
-    <li><a href="#-版本升级">🆙 版本升级</a></li>
-  </ul>
-</details>
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&amp;label=Discord&amp;logo=discord&amp;style=for-the-badge" alt="chat on Discord">
-</a>
 <h2> ✨ 初衷</h2>
 <p>曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。</p>
 <p>更重要的是，<strong>笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。</strong></p>
