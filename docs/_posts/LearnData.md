@@ -1,23 +1,5 @@
 > 开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识
 
-<!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
-<details>
-  <summary>Table of Contents</summary>
-  <ul>
-    <li><a href="#-初衷">✨ 初衷</a></li>
-    <li><a href="#-笔记结构">🧱 笔记结构</a></li>
-    <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
-    <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
-    <li><a href="#️-网站部署">🖥️ 网站部署</a></li>
-    <li><a href="#-常见问题">🤔 常见问题</a></li>
-    <li><a href="#-版本升级">🆙 版本升级</a></li>
-  </ul>
-</details>
-
-<a href="https://discord.gg/PZTQfJ4GjX">
-   <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord">
-</a>
-
 ## ✨ 初衷
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
