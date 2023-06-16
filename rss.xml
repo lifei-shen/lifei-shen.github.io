@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>星之火科技</title>
+    <title>星之火网络科技</title>
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Jun 2023 03:27:25 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2023 03:27:25 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 04:23:13 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 04:23:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -16,10 +16,10 @@
       <link>https://newzone.top/posts/LearnData.html</link>
       <guid>https://newzone.top/posts/LearnData.html</guid>
       <source url="https://newzone.top/rss.xml"></source>
-      <description>开源工具、效率方法、心理学探索的自我提升笔记 Table of Contents ✨ 初衷 🧱 笔记结构 🍥 搭建 LearnData 🔣 配置 LearnData 🖥️ 网站部署 🤔 常见问题 🆙 版本升级</description>
-      <pubDate>Fri, 16 Jun 2023 03:18:40 GMT</pubDate>
+      <description>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识 Table of Contents ✨ 初衷 🧱 笔记结构 🍥 搭建 LearnData 🔣 配置 LearnData 🖥️ 网站部署 🤔 常见问题 🆙 版本升级</description>
+      <pubDate>Fri, 16 Jun 2023 03:49:56 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p>开源工具、效率方法、心理学探索的自我提升笔记</p>
+<p>开源工具、效率方法、心理学探索，输出一切能让每个人提升的知识</p>
 </blockquote>
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
 <details>
